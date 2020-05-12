@@ -1,0 +1,1 @@
+<view class="userInfo"><view class="user-header"><view class="user-hello">你好, 同学</view><view><text data-event-opts="{{[['tap',[['gotoLoin',['$event']]]]]}}" bindtap="__e">登录/注册</text></view></view><view class="user-content"></view></view>
